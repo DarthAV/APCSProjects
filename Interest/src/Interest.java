@@ -34,8 +34,7 @@ public class Interest {
 	
 	
 	//Prints the table 
-	public static void printTable(double investment, double annualDeposit, 
-										int years, double interestRate) {
+	public static void printTable(double investment, double annualDeposit, int years, double interestRate) {
 		//prints some whitespace
 		System.out.println(); 
 		System.out.println(); 
